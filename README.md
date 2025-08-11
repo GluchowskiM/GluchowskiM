@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Matthew Gluchowski 👋
 
-<!--
-**GluchowskiM/GluchowskiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics and data enthusiast, exploring market micro-patterns and building reproducible analyses in Python/R
 
-Here are some ideas to get you started:
+-  Fourth-year BA Economics student at the University of Florida
+-  Interests: macroeconomics, financial markets, personal investing, personal finance
+-  Tools: Python (pandas, statsmodels), R (tidyverse), SQL, GitHub Actions
+-  Currently building: [Weekday Investing Analysis]
+-  
+## Featured projects
+- **Weekday Investing Analysis** — Analyzes day-of-week patterns in returns and simulates DCA (dollar-cost averaging) strategies
+- *(More coming soon as I expand my portfolio)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contact
+- LinkedIn: [www.linkedin.com/in/matthew-gluchowski]
+- Email: [mgluchowski@ufl.edu]
 -->
