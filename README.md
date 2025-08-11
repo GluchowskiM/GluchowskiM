@@ -4,7 +4,7 @@ Economics and data enthusiast, exploring market micro-patterns and building repr
 
 -  Fourth-year BA Economics student at the University of Florida
 -  Interests: macroeconomics, financial markets, personal investing, personal finance
--  Tools: Python (pandas, statsmodels), R (tidyverse), SQL, GitHub Actions
+-  Tools: Python (pandas, statsmodels), R (tidyverse), ArcGIS
 -  Currently building: [Weekday Investing Analysis]
   
 ## Featured projects
