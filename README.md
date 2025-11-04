@@ -3,12 +3,12 @@
 Economics and data enthusiast, exploring market micro-patterns and building reproducible analyses in Python/R
 
 -  Fourth-year BA Economics student at the University of Florida
--  Interests: macroeconomics, financial markets, personal investing, personal finance
+-  Interests: macroeconomics, financial markets, ...
 -  Tools: Python (pandas, statsmodels), R (tidyverse), ArcGIS
--  Currently building: [Weekday Investing Analysis]
+-  Currently building: 
   
 ## Featured projects
-- **Weekday Investing Analysis** — Analyzes day-of-week patterns in returns and simulates DCA (dollar-cost averaging) strategies
+- 
 - *(More coming soon as I expand my portfolio)*
 
 ## Contact
